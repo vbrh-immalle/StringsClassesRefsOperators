@@ -6,7 +6,7 @@ namespace Exercises
     {
         public static string[] SplitsNamen(string str)
         {
-            return new string[0];
+            return str.Split('-');
         }
     }
 }
