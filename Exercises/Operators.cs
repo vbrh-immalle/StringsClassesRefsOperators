@@ -6,5 +6,9 @@ namespace Exercises
 {
     public class Operators
     {
+        public static bool And(bool a, bool b)
+        {
+            return a && b;
+        }
     }
 }
