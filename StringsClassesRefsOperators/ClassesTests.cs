@@ -1,9 +1,9 @@
-using System;
+﻿using System;
 using Xunit;
 
 namespace StringsClassesRefsOperators
 {
-    public class UnitTest1
+    public class ClassesTests
     {
         [Fact]
         public void Test1()
