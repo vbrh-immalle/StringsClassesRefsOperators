@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Exercises
 {
-    class Operators
+    public class Operators
     {
     }
 }

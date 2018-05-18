@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Exercises
 {
-    class Classes
+    public class Classes
     {
     }
 }
